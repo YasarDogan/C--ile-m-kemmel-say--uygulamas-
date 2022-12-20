@@ -1,0 +1,6 @@
+D:\ornekler\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+D:\ornekler\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+D:\ornekler\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+D:\ornekler\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.csprojResolveAssemblyReference.cache
+D:\ornekler\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+D:\ornekler\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
